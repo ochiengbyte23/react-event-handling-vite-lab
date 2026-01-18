@@ -1,8 +1,20 @@
 {
   "name": "react-event-handling-vite-lab",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "Now that you've learned how to work with events in React, it's time to build something and put those skills to use! Your goal for this lab is to add events in React to practice building event handling.",
+  "homepage": "https://github.com/learn-co-curriculum/react-event-handling-vite-lab#readme",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/react-event-handling-vite-lab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/react-event-handling-vite-lab.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
