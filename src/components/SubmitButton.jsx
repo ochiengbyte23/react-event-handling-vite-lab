@@ -2,7 +2,7 @@
 
 function SubmitButton() {
     function handleEnter() {
-        console.log(" Mouse Entering ")
+        console.log("Mouse Entering")
     }
     function handleLeave() {
         console.log("Mouse Exiting")

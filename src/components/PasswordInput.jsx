@@ -2,7 +2,7 @@
 
 function PasswordInput() {
     function handleChange(event) {
-        console.log("Entering password…");
+        console.log("Entering password...");
     }
     return (
         <>
